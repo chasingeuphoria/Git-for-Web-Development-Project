@@ -1,0 +1,66 @@
+body {
+    border: 20px solid brown;
+    font-size: 20px;
+    color: #4d8b8b;
+}
+
+div.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #175899;
+    text-align: center;
+}
+
+h1:hover {
+    color: #c75e18;
+}
+
+div.info {
+    background-color: #023d29;
+    padding: 5%;
+}
+
+div.info:hover {
+    background-color: #e71330;
+}
+
+.first-section {
+    color: #00CED1;
+    background-color: #2F4F4F;
+    padding: 10%;
+}
+
+.first-section:hover {
+    color: #FFA07A;
+    background-color: #696969;
+}
+
+.second-section {
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+
+.second-section:hover {
+    color: #00ff55;
+}
+
+.second-section h2 {
+    color: #457eb8;
+    text-transform: uppercase;
+}
+
+.second-section h2:hover {
+    color: #6a0ee2;
+    text-transform: capitalize;
+}
+
+.gallery {
+    padding: 10% 0;
+}
+
+.gallery img:hover {
+    border: 10px dotted #DC143C;
+}
